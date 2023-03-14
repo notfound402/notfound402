@@ -5,9 +5,9 @@
 
 - 🌱 Actualmente estudiando **Java, kubernetes , AWS**
 
-- 💬 Ask me about **Javascript , NodeJS , Sequelize**
+- 💬 Preguntame acerca de  **Javascript , NodeJS , Sequelize**
 
-- 📫 How to reach me **martinacosta1234@gmail.com**
+- 📫 Contactame !  **martinacosta1234@gmail.com**
 <p aling ="left">
 
 Graduado en Henry como Full - Stack developer. 
