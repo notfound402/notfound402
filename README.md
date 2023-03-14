@@ -8,6 +8,14 @@
 - 💬 Ask me about **Javascript , NodeJS , Sequelize**
 
 - 📫 How to reach me **martinacosta1234@gmail.com**
+<p aling ="left">
+
+Graduado en Henry como Full - Stack developer. 
+Me considero una persona que posee una amplia gama de habilidades, tanto sociales como tecnicas.
+Proactivo, interesado en expandir mis conocimientos para satisfacer la necesidad de la industria.
+Actualmente trabajo en proyectos propios desarrollando aplicaciones web y móviles con varias tecnologias , incluyendo JavaScript, HTML, CSS, Redux, React, Node, SQL y Sequelize, Docker , etc.
+  
+  </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
