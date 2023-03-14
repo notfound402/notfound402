@@ -1,8 +1,13 @@
-    
-<h1 align="center">Hi 👋, I'm Martin!</h1>
-<h3 align="center">A passionate frontend developer from Argentina</h3>
+<h1 align="center">Hola 👋, soy Martin!</h1>
+<h3 align="center">Un desarrollador apasionado de Argentina!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=notfound402&label=Profile%20views&color=0e75b6&style=flat" alt="notfound402" /> </p>
+
+- 🌱 Actualmente estudiando **Java, kubernetes , AWS**
+
+- 💬 Ask me about **Javascript , NodeJS , Sequelize**
+
+- 📫 How to reach me **martinacosta1234@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
